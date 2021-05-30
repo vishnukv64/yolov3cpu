@@ -5,4 +5,4 @@
 # Command: `bash setup_integration.sh`
 
 git clone https://github.com/neuralmagic/yolov3.git
-pip install -r yolov3/requirements.txt
+
